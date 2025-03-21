@@ -15,7 +15,8 @@ my_data[, c(1, 5, 35)]
 unique(my_data[[1]])
 # Spalte "Windpark.ID" sortiert aufsteigen wiedergeben
 sort(my_data$Windpark.ID)
-
+ncol(my_data)
+nrow(my_data)
 
 spalte_nr <- c(19)
 unique(my_data[[spalte_nr]])

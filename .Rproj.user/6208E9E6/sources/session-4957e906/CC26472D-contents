@@ -1,7 +1,0 @@
-my_data <- read.csv(
-    "c:/Users/matth/OneDrive/AB1_R Projekte aktuell/Windparks_Germany/Grundanalyse R/Stammdatensatz.csv",
-    header = TRUE, 
-    sep = ",", 
-    stringsAsFactors = FALSE
-)
-str(my_data)
