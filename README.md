@@ -10,6 +10,9 @@ zu einem Windpark erfasst und verwaltet werden können.
 ## Inhaltsverzeichnis
 
 1. [Allgemeines](#allgemeines)
+
+
+
 2. [Standort](#standort)
 3. [Technische-Merkmale](#technische-merkmale)
 4. [Wirtschaftliche-und-regulatorische-Daten](#wirtschaftliche-und-regulatorische-daten)
@@ -143,3 +146,59 @@ Notfall-Kontakt:           Notfall-Hotline +49 40 1234567
 Datenverantwortlicher:     Datenmanagement - Max Mustermann
 Bemerkungen:               Zugang über Privatweg
 Dokumentenlinks:           \\Server\WindparkHoheMarsch\Dokumente
+
+
+```
+
+## Zusammenfassung Windpark-Stammdaten
+
+- **Name des Windparks:** Windpark Hohe Marsch  
+- **Windpark-ID:** WP_1001  
+- **Betreiber:** GreenEnergy GmbH  
+- **Eigentümerschaft:** Windkraft AG  
+
+### Standort
+- **Bundesland:** Niedersachsen  
+- **Landkreis/Region:** Landkreis Cuxhaven  
+- **PLZ / Ort:** 21762 / Osterbruch  
+- **Geokoordinaten:** 53.7765° N, 8.8950° E  
+- **Lagebeschreibung:** In direkter Nähe zur Bundesstrasse B73  
+
+### Technische Daten
+- **Anzahl WEA:** 12  
+- **Hersteller/Modell:** Enercon E-115  
+- **Nennleistung pro WEA:** 3000 kW (3 MW)  
+- **Gesamtleistung:** 36 MW  
+- **Nabenhöhe:** 135 m  
+- **Rotordurchmesser:** 115 m  
+- **Baujahr:** 2018  
+- **Inbetriebnahmedatum (TT.MM.JJJJ):** 15.03.2018  
+- **Technologie-Typ:** Onshore  
+
+### Wirtschaftlich / Regulatorisch
+- **EEG-Förderende (TT.MM.JJJJ):** 15.03.2038  
+- **Netzanschlusspunkt:** UW Cuxhaven Ost  
+- **PPA-Verträge:** 5-Jahres-PPA mit Energieversorger X  
+- **Genehmigung:** Genehmigungsnr. 12/45/6789  
+- **Wartungsvertrag:** Wartung durch Enercon, bis 31.12.2030  
+
+### Betrieb und Status
+- **Aktueller Status:** in Betrieb  
+- **Repowering-Datum (TT.MM.JJJJ):** - (derzeit nicht geplant)  
+- **Geplante Stilllegung (TT.MM.JJJJ):** 15.03.2040  
+- **Verfügbarkeitsquote:** 97,5 %  
+- **Produzierte Jahresenergiemenge:** 85.000 MWh  
+
+### Kontakt / Verwaltung
+- **Zuständiger Netzbetreiber:** TenneT  
+- **Zuständige Kommune / Behörde:** Gemeinde Nordleda, Landkreis Cuxhaven  
+- **Notfall-Kontakt:** Notfall-Hotline +49 40 1234567  
+- **Datenverantwortlicher:** Datenmanagement - Max Mustermann  
+
+### Sonstiges
+- **Bemerkungen:** Zugang nur mit Genehmigung, Zufahrt über Privatweg  
+- **Dokumentenlinks:** \\Server\WindparkHoheMarsch\Dokumente  
+
+Dieses Summary bietet einen kompakten Überblick über die wichtigsten Daten des 
+fiktiven Windparks. Es kann als Vorlage für die Verwaltung und Dokumentation 
+von Windparks in Deutschland dienen.
